@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome 65.0.3325 (Linux 0.0.0)" package="unit" timestamp="2018-06-15T08:47:24" id="0" hostname="hugh-HP-Pavilion-Notebook" tests="0" errors="1" failures="0" time="0">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"/>
+  </properties>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
